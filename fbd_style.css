@@ -1,0 +1,250 @@
+
+html {
+
+	background: url(images/fbd_html_bg.jpg) repeat;
+
+}
+
+body {
+
+	margin: 0;
+
+	padding:0;
+
+	font-family: 'Roboto Slab', serif;
+
+	font-size: 16px;
+
+	line-height: 1.5em;
+
+	color: #b48842;
+
+	background: url(images/fbd_body_bg.jpg) repeat-x  center top;
+
+	width: 100%;
+
+	display: table;
+
+}
+
+a:link, a:visited { color: #c89d59; text-decoration: none; } 
+
+a:active, a:hover { color: #FFFF00; text-decoration: none }
+
+
+h1 {
+
+	font-size: 24px;
+
+	font-weight: bold;
+
+	text-decoration: underline;
+
+	color: #c89d59;
+
+	background-position: left;
+
+	padding-top: 20px;
+
+}
+
+h2 {
+
+	margin-top: 40px;
+
+	font-size: 20px;
+
+	font-weight: bold;
+
+	text-decoration: underline;
+
+	color: #c89d59;
+
+}
+
+
+#fbd_container {
+
+	width: 806px;
+
+	margin: auto;
+
+}
+
+.fbd_topmenu{
+
+	margin: auto;
+
+	width: 700px;
+
+}
+
+
+.fbd_topmenu ul {
+
+	list-style: none;
+
+	padding: 0px;
+
+	margin: 0px;
+
+}
+
+.fbd_topmenu li{
+
+	display: inline;
+
+}
+
+.fbd_topmenu li a{
+
+	float: left;
+
+	font-family: 'Roboto Slab', serif;
+
+	font-size: 12px;
+
+	font-weight: bold;
+
+	text-align: center;
+
+	color: #beb052;
+
+	width: 103px;
+
+	height: 30px;
+
+	margin-left: 5px;
+
+	margin-right: 5px;
+
+	padding-top: 14px;
+
+}
+
+.fbd_topmenu li a:hover, .fbd_topmenu li .current{
+
+	color: #beb052;
+
+	background: url(images/fbd_button_hover.jpg) no-repeat;
+
+}
+
+#fbd_topsection {
+
+	float: left;
+
+	margin-top: 40px;
+
+	width: 806px;
+
+	height: 48px;
+
+	color: #c1b25d;
+
+	font-size: 24px;
+
+	font-weight: bold;
+
+	padding-top: 50px;
+
+	line-height: 1.6em;
+
+	text-align: center;
+
+	background: url(images/fbd_title_bg.jpg) no-repeat;
+
+}
+
+#fbd_headersection {
+
+	float: left;
+
+	width: 806px;
+
+	height: 252px;
+
+}
+
+#fbd_content_section {
+
+	float: left;
+
+	width: 750px;
+
+	text-align: justify;
+
+	padding-left: 30px;
+
+}
+
+#fbd_content_section img {
+
+	float: left;
+
+	padding-right: 20px;
+
+}
+
+#fbd_content_section table{
+	width: 780px;
+}
+
+	#fbd_content_section table th{
+		padding: 15px;
+		text-align: left;
+	}
+
+	#fbd_content_section table td{
+		padding: 5px;
+	}
+
+#fbd_special {
+
+    width: 226px;
+	
+	height: 159px;
+	
+	margin: auto;
+	
+	float: left;
+}
+
+section {
+    width: 80%;
+    height: 200px;
+    margin: auto;
+    padding: 10px;
+}
+div#one {
+    width: 15%;
+    height: 200px;
+    float: left;
+}
+div#two {
+    margin-left: 15%;
+    height: 200px;
+    float: right;
+}
+
+#fbd_footer {
+
+	float: left;
+
+	margin: auto;
+
+	margin-top: 20px;
+
+	text-align: center;
+
+	padding-top: 35px;
+
+	width: 744px;
+
+	height: 50px;
+
+	background: url(images/fbd_footer.jpg) no-repeat;
+
+	background-position: top;
+
+}

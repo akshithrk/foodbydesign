@@ -1,0 +1,15 @@
+README:
+
+The data 5 and the engine 5 folders are required for the slideshow on the index.html page.
+
+The database name: foodbydesign
+database user: root
+database pwd: ""
+
+signup.php and signupvalidation.php are required for the signup in of new user
+
+login.php and loginvalidation.php are required for the loginin of user
+
+the home.php file is used to re-direct the logout the user after the logging in.
+
+all the images are stored in the images folder.

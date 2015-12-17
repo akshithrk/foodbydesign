@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Food By Design</title>
+    <meta name="project" content="final project" />
+    <meta name="description" content="an e_food company" />
+    <link href="fbd_index_style.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="fbd.js"></script>
+	
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+		<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+		<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine4/style.css" />
+	<script type="text/javascript" src="engine4/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section --></head>
+
+<body>
+
+    <div id="fbd_container">
+
+       <div class="fbd_topmenu">
+          
+		  <ul>
+            <li><a href="home.html" class="current">HOME</a></li>
+            <li><a href="about.html">ABOUT US</a></li>
+            <li><a href="shop.html">MENUS</a></li>
+            <li><a href="#">DRINKS</a></li>
+            <li><a href="#">LOCATIONS</a></li>
+            <li><a href="contact.html">CONTACT</a></li>
+          </ul>
+       
+	   </div>	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container4">
+	<div class="ws_images"><ul>
+		<li><img src="data4/images/fbd2.jpg" alt="fbd2" title="fbd2" id="wows4_0"/></li>
+		<li><img src="data4/images/fbd1.jpg" alt="fbd1" title="fbd1" id="wows4_1"/></li>
+		<li><img src="data4/images/fbd3.jpg" alt="fbd3" title="fbd3" id="wows4_2"/></li>
+		<li><img src="data4/images/fbd4.jpg" alt="fbd4" title="fbd4" id="wows4_3"/></li>
+		<li><a href="http://wowslider.com/vf"><img src="data4/images/greens.jpg" alt="full screen slider" title="greens" id="wows4_4"/></a></li>
+		<li><img src="data4/images/oatmeal.jpg" alt="Oatmeal" title="Oatmeal" id="wows4_5"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="fbd2"><img src="data4/tooltips/fbd2.jpg" alt="fbd2"/>1</a>
+		<a href="#" title="fbd1"><img src="data4/tooltips/fbd1.jpg" alt="fbd1"/>2</a>
+		<a href="#" title="fbd3"><img src="data4/tooltips/fbd3.jpg" alt="fbd3"/>3</a>
+		<a href="#" title="fbd4"><img src="data4/tooltips/fbd4.jpg" alt="fbd4"/>4</a>
+		<a href="#" title="greens"><img src="data4/tooltips/greens.jpg" alt="greens"/>5</a>
+		<a href="#" title="Oatmeal"><img src="data4/tooltips/oatmeal.jpg" alt="Oatmeal"/>6</a>
+	</div></div><span class="wsl"><a href="http://wowslider.com/vu">image carousel</a> by WOWSlider.com v7.2</span>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine4/wowslider.js"></script>
+	<script type="text/javascript" src="engine4/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+
+       <div id="fbd_topsection">FOOD BY DESIGN</div>
+   
+       <div id="fbd_headersection">
+	      <img src="images/fbd_header_photo.jpg" class="reflect rheight20 ropacity25" alt="fbd.com" width="806" height="166"  />
+	      </div	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	>
+
+
+       <div id="fbd_content_section">
+          <h1>REGISTRY HERE</h1>
+          
+   	
+       <div id="fbd_footer">Designed by ARK</a> <span class="fbd_footer">|&nbsp;<u> Inspired by <a href="http://www.bodybuilding.com/fun/krisgethin.htm">Kris Gethin</a> & &nbsp;<a href="http://www.bodybuilding.com"> bodybuilding.com</a></u></span></div>
+    </div>	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	
+</body>
+</html
